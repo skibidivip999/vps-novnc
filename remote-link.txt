@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://informative-likewise-babies-everyone.trycloudflare.com/vnc.html
+URL       : https://fee-speed-assumed-buzz.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-23 23:18:49
+Created   : 2026-07-24 09:15:59
 =======================================================
