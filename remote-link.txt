@@ -1,0 +1,9 @@
+=======================================================
+noVNC INFO - DucThang x TrueHieu Edition
+=======================================================
+URL       : https://buildings-baking-attention-anticipated.trycloudflare.com/vnc.html
+Password  : hieudz
+Host      : trycloudflare
+Protocol  : noVNC over Cloudflared
+Created   : 2026-07-29 14:32:58
+=======================================================
