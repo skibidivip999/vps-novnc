@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://variables-gods-ones-offerings.trycloudflare.com/vnc.html
+URL       : https://pitch-rapids-gates-respective.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 21:09:06
+Created   : 2026-08-05 02:03:17
 =======================================================
