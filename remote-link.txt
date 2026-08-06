@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://agriculture-journey-utc-wildlife.trycloudflare.com/vnc.html
+URL       : https://gained-eminem-scoring-owen.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-06 07:39:17
+Created   : 2026-08-06 12:02:16
 =======================================================
