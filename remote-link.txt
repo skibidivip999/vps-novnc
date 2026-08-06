@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://offered-weekends-strings-walking.trycloudflare.com/vnc.html
+URL       : https://agriculture-journey-utc-wildlife.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-06 02:07:33
+Created   : 2026-08-06 07:39:17
 =======================================================
