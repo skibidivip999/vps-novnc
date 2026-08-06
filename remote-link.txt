@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://procedures-mainstream-text-accommodation.trycloudflare.com/vnc.html
+URL       : https://offered-weekends-strings-walking.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 21:05:43
+Created   : 2026-08-06 02:07:33
 =======================================================
