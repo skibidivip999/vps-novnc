@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ddr-announcement-consultant-whatever.trycloudflare.com/vnc.html
+URL       : https://filename-pick-arg-gdp.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-10 15:58:32
+Created   : 2026-08-10 20:38:48
 =======================================================
