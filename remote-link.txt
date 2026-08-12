@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://train-modification-walls-principles.trycloudflare.com/vnc.html
+URL       : https://focal-these-pin-brighton.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 01:27:36
+Created   : 2026-08-12 06:11:49
 =======================================================
