@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://activists-back-indie-laden.trycloudflare.com/vnc.html
+URL       : https://weights-cloud-hockey-sources.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 01:30:20
+Created   : 2026-08-13 06:15:00
 =======================================================
