@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://solution-cancel-save-writes.trycloudflare.com/vnc.html
+URL       : https://belief-dropped-marine-cute.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 20:18:36
+Created   : 2026-08-16 01:01:18
 =======================================================
