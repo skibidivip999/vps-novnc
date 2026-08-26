@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://armor-lucky-latex-solution.trycloudflare.com/vnc.html
+URL       : https://structures-casual-vernon-encourages.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-26 10:32:09
+Created   : 2026-08-26 16:15:58
 =======================================================
