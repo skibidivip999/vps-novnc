@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://earlier-governing-evaluation-adopt.trycloudflare.com/vnc.html
+URL       : https://tribunal-reduction-pts-tension.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-27 06:53:12
+Created   : 2026-08-27 20:08:38
 =======================================================
