@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sku-sip-related-specifications.trycloudflare.com/vnc.html
+URL       : https://branches-ethical-milton-greeting.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-01 03:13:23
+Created   : 2026-09-01 09:45:30
 =======================================================
