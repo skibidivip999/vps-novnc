@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://carries-eventually-reflects-red.trycloudflare.com/vnc.html
+URL       : https://better-cliff-instances-sleeps.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-03 22:12:45
+Created   : 2026-09-04 02:36:00
 =======================================================
