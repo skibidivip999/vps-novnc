@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://patterns-voted-appear-rehab.trycloudflare.com/vnc.html
+URL       : https://declare-championship-emphasis-pace.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 13:15:09
+Created   : 2026-09-05 17:06:41
 =======================================================
