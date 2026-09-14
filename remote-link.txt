@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://africa-buf-consolidation-tea.trycloudflare.com/vnc.html
+URL       : https://specific-penetration-gnome-laws.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-14 10:18:16
+Created   : 2026-09-14 19:44:47
 =======================================================
