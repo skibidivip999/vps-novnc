@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://inches-civic-coordination-nationally.trycloudflare.com/vnc.html
+URL       : https://bold-journalist-independence-halo.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-21 23:00:34
+Created   : 2026-09-22 02:59:32
 =======================================================
