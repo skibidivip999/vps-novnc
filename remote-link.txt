@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://antivirus-gulf-boc-resolutions.trycloudflare.com/vnc.html
+URL       : https://portions-intent-labels-promo.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-26 14:03:17
+Created   : 2026-09-26 18:16:39
 =======================================================
