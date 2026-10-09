@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://eliminate-bridges-worthy-unlikely.trycloudflare.com/vnc.html
+URL       : https://teams-mid-rica-wins.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-09 11:39:40
+Created   : 2026-10-09 20:00:13
 =======================================================
