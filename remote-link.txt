@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://imported-cubic-alan-according.trycloudflare.com/vnc.html
+URL       : https://intimate-regarding-minneapolis-item.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 19:11:20
+Created   : 2026-10-14 22:59:28
 =======================================================
