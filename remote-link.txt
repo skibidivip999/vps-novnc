@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://naples-officially-exist-mayor.trycloudflare.com/vnc.html
+URL       : https://pdas-arctic-though-training.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 09:56:06
+Created   : 2026-10-14 14:53:14
 =======================================================
