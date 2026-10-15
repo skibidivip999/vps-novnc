@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://intimate-regarding-minneapolis-item.trycloudflare.com/vnc.html
+URL       : https://warranties-princeton-detector-donations.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 22:59:28
+Created   : 2026-10-15 02:54:45
 =======================================================
