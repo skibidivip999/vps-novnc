@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gdp-lamp-representation-dawn.trycloudflare.com/vnc.html
+URL       : https://region-boulevard-legends-expertise.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 18:55:09
+Created   : 2026-10-20 22:56:46
 =======================================================
