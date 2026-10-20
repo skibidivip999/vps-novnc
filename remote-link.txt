@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://launches-navy-tray-commercial.trycloudflare.com/vnc.html
+URL       : https://aluminum-further-consistent-cluster.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 03:07:05
+Created   : 2026-10-20 14:39:38
 =======================================================
