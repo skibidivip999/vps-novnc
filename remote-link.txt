@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://causes-rob-computers-ict.trycloudflare.com/vnc.html
+URL       : https://setup-vermont-homes-freight.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 14:52:11
+Created   : 2026-10-22 19:04:03
 =======================================================
