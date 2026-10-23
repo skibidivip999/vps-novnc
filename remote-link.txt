@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://amplifier-laughing-diesel-allows.trycloudflare.com/vnc.html
+URL       : https://buddy-studies-subsidiary-listening.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 22:58:52
+Created   : 2026-10-23 03:05:07
 =======================================================
