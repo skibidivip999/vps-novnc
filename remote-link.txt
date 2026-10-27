@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://antenna-rebates-mass-jenny.trycloudflare.com/vnc.html
+URL       : https://notebook-tactics-committee-electoral.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-26 20:18:30
+Created   : 2026-10-27 03:25:45
 =======================================================
