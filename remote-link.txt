@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://margin-gossip-issues-george.trycloudflare.com/vnc.html
+URL       : https://restaurant-publishing-undefined-dry.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-27 10:12:58
+Created   : 2026-10-27 19:49:07
 =======================================================
