@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://anna-northern-cable-monitoring.trycloudflare.com/vnc.html
+URL       : https://marketing-hat-assurance-leader.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-29 11:16:29
+Created   : 2026-10-29 20:03:42
 =======================================================
