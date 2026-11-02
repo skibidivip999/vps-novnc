@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://specialists-township-justin-statements.trycloudflare.com/vnc.html
+URL       : https://shaved-jack-removed-internationally.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 04:00:28
+Created   : 2026-11-02 13:02:45
 =======================================================
