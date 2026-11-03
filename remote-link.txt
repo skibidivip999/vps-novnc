@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://governments-done-angle-somehow.trycloudflare.com/vnc.html
+URL       : https://rocky-lindsay-license-entered.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 05:01:54
+Created   : 2026-11-03 12:44:15
 =======================================================
