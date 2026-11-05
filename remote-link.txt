@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://synthetic-dialogue-postcard-cologne.trycloudflare.com/vnc.html
+URL       : https://qualify-blog-arlington-twice.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 12:56:03
+Created   : 2026-11-05 21:20:55
 =======================================================
