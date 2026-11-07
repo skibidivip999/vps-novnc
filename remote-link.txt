@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lovely-valued-profiles-partnership.trycloudflare.com/vnc.html
+URL       : https://person-copyrights-papua-semiconductor.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-07 04:18:04
+Created   : 2026-11-07 11:29:16
 =======================================================
